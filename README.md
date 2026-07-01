@@ -32,4 +32,4 @@ Computer Science: Data Structures & Algorithms (100+ LeetCode).
 
 Let's Connect
 
-Portfolio Website • LinkedIn • LeetCode • Email
+[Portfolio Website](https://samdanisayam.github.io/sayam.github.io/) • [LinkedIn](https://www.linkedin.com/in/md-golam-samdani-sayam/) 

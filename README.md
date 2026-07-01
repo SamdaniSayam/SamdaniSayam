@@ -1,19 +1,35 @@
-# Hi, I'm Sayam. 🚀
+Hi, I'm Sayam. 
 
-I am a Software Engineer and Agency Founder with a background in Physics. I specialize in bridging the gap between scalable web infrastructure and high-performance computational models. 
+Software Engineer | Founder @ TripleS Studio | High-Performance Computing
 
-Currently, I am building full-stack solutions at [TripleS Studio](link-to-your-agency) and preparing for 2027 SWE Internships.
+I specialize in bridging the gap between scalable web infrastructure and high-performance computational models. Currently, I am architecting full-stack solutions at TripleS Studio and actively preparing for 2027 Software Engineering Internships.
 
-### 🛠 Core Engineering Stack
-- **Backend & Systems:** Python, FastAPI, Redis, PostgreSQL, C++, Docker.
-- **Data & HPC:** TensorFlow, NumPy, Pandas, Numba (JIT), Signal Processing.
-- **Frontend:** React.js, Next.js, Tailwind CSS, TypeScript.
-- **Computer Science:** Data Structures & Algorithms (100+ LeetCode).
+🌟 Flagship Open-Source Project: triples-sigfast
 
-### 🏆 Featured Engineering Work
-*   ⚡ **[Distributed URL Shortener](link_to_repo):** Architected a high-throughput backend with a Redis Cache-Aside pattern and Dockerized microservices.
-*   🪐 **[Exoplanet AI Detector](link_to_repo):** Built a 1D-CNN and FFT signal processing pipeline achieving 99.3% accuracy on NASA Kepler data.
-*   🧲 **[High-Performance Physics Engine](link_to_repo):** Optimized Python Monte Carlo simulations by ~2000x using JIT compilation and multithreading.
+triples-sigfast is a high-performance physics data analysis engine published on PyPI, built to process massive Monte Carlo simulation datasets.
 
-### 📬 Let's Connect
-[Portfolio Website](link_to_portfolio) • [LinkedIn](link_to_linkedin) • [LeetCode](link_to_leetcode) • golamsamdani301416@gmail.com
+Performance: Achieved ~2000x execution speedups over standard Python and 40x over Pandas by implementing $O(N)$ prefix-sum algorithms and compiling hot-path kernels via Numba's LLVM backend.
+
+Scale: Capable of processing 800 MB (100M-row) Geant4/ROOT simulation datasets in ~1.2 seconds, entirely bypassing the Python GIL.
+
+Impact: Officially adopted by the PUST Nuclear Physics Lab, completely replacing their legacy C++ analysis workflows.
+
+ Featured Distributed & ML Systems
+
+ Distributed URL Shortener: Architected a high-throughput backend utilizing FastAPI, a Redis Cache-Aside pattern, and Dockerized microservices for maximum horizontal scalability.
+
+ Exoplanet AI Detector: Built a 1D-CNN and Fast Fourier Transform (FFT) signal processing pipeline, achieving 99.3% accuracy on raw NASA Kepler space telescope time-series data.
+
+ Core Engineering Stack
+
+Languages: Python, C++, SQL, JavaScript (ES6+), TypeScript.
+
+Backend & Systems: FastAPI, Django, PostgreSQL, Redis, Docker, System Design.
+
+Scientific & HPC: Numba (LLVM JIT), CERN ROOT, uproot, TensorFlow, NumPy.
+
+Computer Science: Data Structures & Algorithms (100+ LeetCode).
+
+Let's Connect
+
+Portfolio Website • LinkedIn • LeetCode • Email

@@ -23,4 +23,4 @@ I design and ship systems that make expensive computations practical—bringing 
 * **Computer Science:** Data Structures & Algorithms (100+ LeetCode)
 
 **Let's Connect!**
-[Portfolio Website](https://samdanisayam.github.io/) • [LinkedIn](https://www.linkedin.com/in/md-golam-samdani-sayam/) • [GitHub](https://github.com/SamdaniSayam)
+[Portfolio Website]([https://samdanisayam.github.io/](https://samdanisayam.github.io/sayam.github.io/)) • [LinkedIn](https://www.linkedin.com/in/md-golam-samdani-sayam/) • [GitHub](https://github.com/SamdaniSayam)

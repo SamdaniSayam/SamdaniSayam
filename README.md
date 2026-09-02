@@ -1,35 +1,26 @@
-Hi, I'm Sayam. 
-
+**Hi, I'm Sayam.**
 Software Engineer | Founder @ TripleS Studio | High-Performance Computing
 
-I specialize in bridging the gap between scalable web infrastructure and high-performance computational models. Currently, I am architecting full-stack solutions at TripleS Studio and actively preparing for 2027 Software Engineering Internships.
+I specialize in bridging scalable web infrastructure with high-performance computational models. Currently architecting full-stack solutions at TripleS Studio and actively pursuing 2027 Software Engineering Internships.
 
-🌟 Flagship Open-Source Project: triples-sigfast
+** Flagship Open-Source & Full-Stack Projects**
 
-triples-sigfast is a high-performance physics data analysis engine published on PyPI, built to process massive Monte Carlo simulation datasets.
+* **triples-sigfast (PyPI):** Accelerated CERN ROOT physics data analysis by 2000x over standard Python and 40x over Pandas, processing 100M-row (800 MB) datasets in ~1.2 seconds, by implementing $O(N)$ prefix-sum algorithms compiled on Numba’s LLVM backend.
+* **Pakhi Trading Platform:** Delivered a quantitative weather-to-trading-signal engine maintaining 99.6% line coverage across 1,460+ CI tests, by orchestrating FastAPI, TimescaleDB, and 6 interchangeable ML models deployed via Docker and Terraform on GCP.
 
-Performance: Achieved ~2000x execution speedups over standard Python and 40x over Pandas by implementing $O(N)$ prefix-sum algorithms and compiling hot-path kernels via Numba's LLVM backend.
+** High-Performance Computing & ML Systems**
 
-Scale: Capable of processing 800 MB (100M-row) Geant4/ROOT simulation datasets in ~1.2 seconds, entirely bypassing the Python GIL.
+* **Monte Carlo Simulation Pipeline:** Reduced multi-material shielding analysis time from one week to a single overnight run and cut graph generation to under 3 seconds, by replacing legacy C++ scripts with an automated Python suite and an end-to-end Geant4 Monte Carlo pipeline.
+* **Distributed URL Shortener:** Architected a highly scalable backend designed for maximum horizontal throughput, by implementing a Redis Cache-Aside pattern and Dockerized microservices in FastAPI.
+* **Exoplanet AI Detector:** Achieved 99.3% detection accuracy on raw NASA Kepler space telescope time-series data, by engineering a 1D-CNN and Fast Fourier Transform (FFT) signal processing pipeline.
 
-Impact: Officially adopted by the PUST Nuclear Physics Lab, completely replacing their legacy C++ analysis workflows.
+** Core Engineering Stack**
 
- Featured Distributed & ML Systems
+* **Languages:** Python, C++, SQL, JavaScript (ES6+), TypeScript, Bash
+* **Backend & Systems:** FastAPI, Django, PostgreSQL, Redis, System Design, REST APIs
+* **Scientific & HPC:** Numba (LLVM JIT), CERN ROOT, uproot, Geant4, xarray, TensorFlow, NumPy, Pandas
+* **DevOps & CI/CD:** Docker, GitHub Actions, Terraform, GCP, Prometheus/Grafana, pytest
+* **Computer Science:** Data Structures & Algorithms (100+ LeetCode)
 
- Distributed URL Shortener: Architected a high-throughput backend utilizing FastAPI, a Redis Cache-Aside pattern, and Dockerized microservices for maximum horizontal scalability.
-
- Exoplanet AI Detector: Built a 1D-CNN and Fast Fourier Transform (FFT) signal processing pipeline, achieving 99.3% accuracy on raw NASA Kepler space telescope time-series data.
-
- Core Engineering Stack
-
-Languages: Python, C++, SQL, JavaScript (ES6+), TypeScript.
-
-Backend & Systems: FastAPI, Django, PostgreSQL, Redis, Docker, System Design.
-
-Scientific & HPC: Numba (LLVM JIT), CERN ROOT, uproot, TensorFlow, NumPy.
-
-Computer Science: Data Structures & Algorithms (100+ LeetCode).
-
-Let's Connect
-
-[Portfolio Website](https://samdanisayam.github.io/sayam.github.io/) • [LinkedIn](https://www.linkedin.com/in/md-golam-samdani-sayam/) 
+** Let's Connect!**
+[Portfolio Website](https://samdanisayam.github.io/sayam.github.io/) • [LinkedIn](https://www.linkedin.com/in/md-golam-samdani-sayam/)
